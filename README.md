@@ -27,12 +27,19 @@ Você pode fazer o download de todos os corpus utilizados, incluindo o corpus un
 [Link do MusicSpotsBr - Kaggle 
 ](https://www.kaggle.com/datasets/vitoriafirmino/musicspotsbr-popular-brazilian-lyrics-on-spotify)
 
-### 2. Pasta Modelo de Classificação de Sentimentos
+### 2. Pasta Análise de Frases Predicativas
+- `analise-frases-predicativas.ipynb`: Código para capturar frases predicativas usando expressões regulares.
+- **Resultados**: [Subpasta com os resultados das análises.](https://drive.google.com/drive/folders/1z9uPvH2deVN4XYr1UUd300cnhiqM522b?usp=sharing)
+
+### 3. Pasta Modelo de Classificação de Sentimentos
 - **Resultados**: [Subpasta com resultados](https://drive.google.com/drive/folders/1p57lDAngnc0piW9rs3OTJuIUkYMqZDCI?usp=sharing) das sentenças anotadas em termos de sentimento (positivo, neutro ou negativo).
 - **Dados de Treinamento**: [Subpasta com o subcorpus anotado manualmente.](https://drive.google.com/drive/folders/1VFOnKBQlXfCtykBJqX7txTnaTu7-UNy3?usp=sharing)
 - `bertimbau-analise.ipynb`: Código para o fine-tuning do modelo BERTimbau, aplicando-o na análise de sentimento em frases predicativas.
 
-### 3. Sexualização Infantil e Autorretrato Feminino
+### 4. Sexualização Infantil e Autorretrato Feminino
 - `Como as mulheres se retratam.ipynb`: Código para capturar frases predicativas usando árvore de dependência para a análise do autorretrato.
 - `Sexualização Infantil.ipynb`: Código para capturar frases predicativas usando árvore de dependência para a análise infantil.
 - `Análise de Sentimentos .ipynb`: Código para o fine-tuning do modelo BERTimbau, aplicando-o na análise de sentimento em frases predicativas (infantis e autorretrato).
+
+#### Observações
+- [Link do Agrupamento em Categorias](https://github.com/firminovitoria/profissoes-categorias/tree/main)
