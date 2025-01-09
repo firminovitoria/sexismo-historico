@@ -32,7 +32,7 @@ Você pode fazer o download de todos os corpus utilizados, incluindo o corpus un
 - **Dados de Treinamento**: [Subpasta com o subcorpus anotado manualmente.](https://drive.google.com/drive/folders/1VFOnKBQlXfCtykBJqX7txTnaTu7-UNy3?usp=sharing)
 - `bertimbau-analise.ipynb`: Código para o fine-tuning do modelo BERTimbau, aplicando-o na análise de sentimento em frases predicativas.
 
-### 4. Sexualização Infantil e Autorretrato Feminino
+### 3. Sexualização Infantil e Autorretrato Feminino
 - `Como as mulheres se retratam.ipynb`: Código para capturar frases predicativas usando árvore de dependência para a análise do autorretrato.
 - `Sexualização Infantil.ipynb`: Código para capturar frases predicativas usando árvore de dependência para a análise infantil.
 - `Análise de Sentimentos .ipynb`: Código para o fine-tuning do modelo BERTimbau, aplicando-o na análise de sentimento em frases predicativas (infantis e autorretrato).
